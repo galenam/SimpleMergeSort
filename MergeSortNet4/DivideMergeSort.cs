@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 
 namespace MergeSortNet4
@@ -19,25 +18,23 @@ namespace MergeSortNet4
 			var result = new List<int>();
 			var indexA = 0;
 			var indexB = 0;
-			var minLength = Math.Min(a.Count, b.Count);
 
-			while (indexA < minLength || indexB<minLength) 
+			while (indexA < a.Count || indexB<b.Count) 
 			{
-				if (indexA < minLength && indexB < minLength)
+				if (indexA < a.Count && indexB < b.Count)
 				{
 					result.Add(a[indexA] < b[indexB] ? a[indexA++] : b[indexB++]);
 				}
-				if (indexA == minLength)
+				else if (indexA == a.Count)
 				{
 					result.Add(b[indexB++]);
 				}
-				if (indexB == minLength)
+				else if (indexB == b.Count)
 				{
 					result.Add(a[indexA++]);
 				}
 			}
 			return result;
-			//return  indexA == minLength ? result.Concat(b.Skip(indexB)).ToList() : result.Concat(a.Skip(indexA)).ToList();
 		}
 
 		private static List<int> SortInner(List<int> a)
