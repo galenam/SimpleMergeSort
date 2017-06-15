@@ -1,0 +1,17 @@
+D:\My\dev\MergeSortNet4\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\MergeSortNet4.exe
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\nunit.framework.dll
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\MergeSortNet4.pdb
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\MergeSortNet4.exe.config
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\My\dev\MergeSortNet4\UnitTestProject1\bin\Debug\nunit.framework.xml
+D:\My\dev\MergeSortNet4\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\My\dev\MergeSortNet4\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

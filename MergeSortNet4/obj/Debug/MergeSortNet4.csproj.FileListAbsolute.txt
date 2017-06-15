@@ -1,0 +1,6 @@
+D:\My\dev\MergeSortNet4\MergeSortNet4\bin\Debug\MergeSortNet4.exe.config
+D:\My\dev\MergeSortNet4\MergeSortNet4\bin\Debug\MergeSortNet4.exe
+D:\My\dev\MergeSortNet4\MergeSortNet4\bin\Debug\MergeSortNet4.pdb
+D:\My\dev\MergeSortNet4\MergeSortNet4\obj\Debug\MergeSortNet4.csprojResolveAssemblyReference.cache
+D:\My\dev\MergeSortNet4\MergeSortNet4\obj\Debug\MergeSortNet4.exe
+D:\My\dev\MergeSortNet4\MergeSortNet4\obj\Debug\MergeSortNet4.pdb
